@@ -1,5 +1,5 @@
-# Crud sencillo ##
-Crud sencillo es un pequeño programa que puede realizar un Create, Read, Update y Delete en una interfaz gráfica realizada con la librería Tkinter y una base de datos embebida como Sqlite.
+# CRUD sencillo ##
+CRUD sencillo es un pequeño programa que puede realizar un Create, Read, Update y Delete en una interfaz gráfica realizada con la librería Tkinter y una base de datos embebida como Sqlite.
 
 ## Instalación ###
 - Clonar el repisotorio: git clone https://github.com/juancruzromero/crud_sencillo.git
