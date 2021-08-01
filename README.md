@@ -4,5 +4,5 @@ CRUD sencillo es un pequeño programa que puede realizar un Create, Read, Update
 ## Instalación ###
 - Clonar el repisotorio: git clone https://github.com/juancruzromero/crud_sencillo.git
 - Cambiar el directorio al proyecto: cd crud_sencillo
-- Crear entorno virtual: Con linux es "python -m venv ven"
+- Crear entorno virtual: Con linux es "python -m venv env"
 - Una vez ingresado al entorno virtual instalar tkinter y el driver de sqlite: pip install install pysqlite3 && pip install install tkinter
